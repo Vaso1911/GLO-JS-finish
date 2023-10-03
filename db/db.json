@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Jacob1",
+      "email": "thornton@gmail.com",
+      "children": false,
+      "permissions": true,
+      "id": 1
+    },
+    {
+      "name": "lord",
+      "email": "lord22@test.test",
+      "children": false,
+      "permissions": false,
+      "id": 4
+    },
+    {
+      "name": "vasy999",
+      "email": "vasy999@test.test",
+      "children": false,
+      "permissions": false,
+      "id": 5
+    }
+  ]
+}
