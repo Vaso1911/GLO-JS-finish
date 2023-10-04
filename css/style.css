@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  padding: 40px;
+  background-color: #e1e1e1;
+}
+
+#span .el:not(:last-child) {
+  margin-right: 20px;
+}
